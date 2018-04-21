@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "name": "Site-04-20_2133",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#1a9e00"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.7.1",
+    "uniqCompNum": 5,
+    "versionPublish": "4.7.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<b><i>IMAGINE YOU COULD BE HERE&nbsp;</i></b>",
+          "text": "<i><b>STOP WISHING AND GET STARTED TODAY WITH OUR FREE FAST CASH SYSTEM !</b></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://profitexperts101.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAST CASH SYSTEM</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_styles": {
+            "H1": {
+              "font-size": "48px",
+              "text-align": "center"
+            },
+            "I": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
