@@ -39,7 +39,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/dov-6-128x163.png",
     "noImageResize": "true",
-    "uniqCompNum": 4,
+    "uniqCompNum": 3,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png"
   },
